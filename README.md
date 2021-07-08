@@ -1,1 +1,1 @@
-# SQL_MyTutorial
+# SQL_Tutorial
